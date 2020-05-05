@@ -14,5 +14,8 @@
             "classes"
         ]
     },
-    "require": {}
+    "require": {
+        "doctrine/orm": "^2.7",
+        "symfony/dotenv": "^5.0"
+    }
 }
